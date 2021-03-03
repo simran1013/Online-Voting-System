@@ -1,0 +1,37 @@
+[
+    { "key": "AITCP",
+     "text": "The All India Trinamool Congress (abbreviated AITC or TMC; translation: All India Grassroots Congress) is an Indian national political party mostly active in West Bengal. The party is led by its founder and current chief minister of West Bengal Mamata Banerjee. Following the 2019 general election, it is currently the fourth-largest party in the Lok Sabha with 21 seats. Since its inception the party has been at the forefront of the anti-communist movement in West Bengal. Their main political rival in West Bengal is Bharatiya Janata Party.", 
+     "value": "All India Trinamool Congress Party",
+     "picture":  "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/All_India_Trinamool_Congress_flag.svg/360px-All_India_Trinamool_Congress_flag.svg.png" } ,
+   
+    
+    {
+        "key" :"BJP",
+        "text":"The Bharatiya Janata Party (pronounced [bʱaːrtiːjə dʒənta paːrʈi] (About this soundlisten); transl. Indian People's Party; abbr. BJP) is one of two major political parties in India, along with the Indian National Congress.[35] It is the current ruling political party of the Republic of India, having been so since 2014.[36] The BJP is a right-wing party, and its policy has historically reflected Hindu nationalist positions.[37][38] It has close ideological and organisational links to the much older Rashtriya Swayamsevak Sangh (RSS).[39] As of 2019, it is the country's largest political party in terms of representation in the national parliament and state assemblies and is the world's largest party in terms of primary membership.",
+        "value":"Bhartiya Janta Party",
+        "picture" :"https://upload.wikimedia.org/wikipedia/en/thumb/1/1e/Bharatiya_Janata_Party_logo.svg/225px-Bharatiya_Janata_Party_logo.svg.png"
+    },
+    {
+        "key" :"CPI",
+        "text":"The Communist Party of India was formed on 26 December 1925 at the first Party Conference in Kanpur, which was then known as Cawnpore. S.V. Ghate was the first General Secretary of CPI. There were many communist groups formed by Indians with the help of foreigners in different parts of the world, Tashkent group of Contacts were made with Anushilan and Jugantar the groups in Bengal, and small communist groups were formed in Bombay (led by S.A. Dange), Madras (led by Singaravelu Chettiar), United Provinces (led by Shaukat Usmani), Punjab, Sindh (led by Ghulam Hussain) and Bengal (led by Muzaffar Ahmed).",
+        "value":"Communist Party Of India",
+        "picture" :"https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/CPIEmblem.png/300px-CPIEmblem.png"
+    },
+    {
+        "key" :"INC",
+        "text":"The Indian National Congress, often called the Congress Party or simply Congress, abbr. INC) is a political party in India with widespread roots.[18] Founded in 1885, it was the first modern nationalist movement to emerge in the British Empire in Asia and Africa.[a][19] From the late 19th century, and especially after 1920, under the leadership of Mahatma Gandhi, Congress became the principal leader of the Indian independence movement.[20] Congress led India to independence from the United Kingdom,[b][21][c][22] and powerfully influenced other anti-colonial nationalist movements in the British Empire.",
+        "value":"Indian National Congress",
+        "picture" :"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Hand_INC.svg/225px-Hand_INC.svg.png"
+    },
+    {
+        "key" :"NCP",
+        "text":"The NCP was formed on 25 May 1999, by Sharad Pawar, P. A. Sangma, and Tariq Anwar after they were expelled from the Indian National Congress (INC)is on 20 May 1999, for disputing the right of Italian-born Sonia Gandhi to lead the party.[7][8][9] At the time of formation of the NCP, the Indian Congress (Socialist) party merged with the new party.[10] Despite the NCP being founded on opposition to the leadership of Sonia Gandhi, the party joined the Congress led UPA to form government of Maharashtra in October 1999. In 2004, the party joined the UPA to form the Indian Government led by Manmohan Singh.",
+        "value":"National Congress Party",
+        "picture" :"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Flag_of_Nationalist_Congress_Party.svg/300px-Flag_of_Nationalist_Congress_Party.svg.png"
+    }
+   , { "key": "BSP",
+        "text": "The Bahujan Samaj Party (BSP) is a national level political party in India that was formed to represent Bahujans , referring to Scheduled Castes, Scheduled Tribes, and Other Backward Classes (OBC), along with religious minorities.[10] According to Kanshi Ram, when he founded the party in 1984, the Bahujans comprised 85 percent of India's population, but were divided into 6,000 different castes.[11][12] The party claims to be inspired by the philosophy of Gautama Buddha, B. R. Ambedkar, Mahatma Jyotiba Phule, Narayana Guru, Periyar E. V. Ramasamy and Chhatrapati Shahuji Maharaj.[13] Kanshi Ram named his protégée, Mayawati, as his successor in 2001. The BSP has its main base in the Indian state of Uttar Pradesh where it was the second-largest party in the 2019 Indian general election with 19.3% of votes[14] and in the 2017 Uttar Pradesh elections with over 22% of votes.[ Its election symbol is an elephant.",
+       " value":"Bahujan Samaaj Party",
+      "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Elephant_Bahujan_Samaj_Party.svg/300px-Elephant_Bahujan_Samaj_Party.svg.png" } 
+    
+  ]

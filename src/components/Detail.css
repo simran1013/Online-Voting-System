@@ -1,0 +1,61 @@
+
+.detail1{
+  
+  margin-top: 100px;
+  margin-left: 0px;
+  font-family:fantasy ;
+  font-size:25px ;
+}
+.Hello{
+    margin-left: 480px;
+    font-size: 70px;
+   
+
+}
+.dettext{
+  font-size: 22px;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-style: italic;
+  font: bold;
+  width: 100%;
+  
+}
+.image{
+  margin-left: 500px;
+  float: right;
+  margin-top: 40px;
+  height: 350px;
+  width: 350px;
+}
+.drop{
+  min-width: 570px;
+  border-radius: 10px;
+    
+}
+.dropcall{
+  height: 35px;
+  width: 350px;
+}
+button{ 
+   
+    border-radius: 10px;
+    height: 50px;
+    width: 300px;
+   border: none;
+padding-left: 20px;
+    background-color: rgb(248, 236, 225);
+}
+.but{
+  margin-top: 50px;
+  margin-left: 450px; 
+}
+.inputblock{
+    height: 50px;
+  
+    border-radius: 10px;
+    background-color:rgb(238, 210, 185);
+    width: 545px;
+    display:inline-block;
+    margin:0;
+    margin:0 0 7px 0;
+}
